@@ -1,2 +1,2 @@
 # batch-sandbox
-Learning fundamentals with batch scripting
+Learning fundamentals of batch scripting
