@@ -1,7 +1,5 @@
-# batch-sandbox
-Learning fundamentals of batch scripting
-
 # Sandbox
+Learning fundamentals of batch scripting
 Here in the sandbox I just put the basics to return to if needed.
 
 # File system
