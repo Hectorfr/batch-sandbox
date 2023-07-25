@@ -1,5 +1,4 @@
 # wifi-finder
-Basic use of batch, to see your history of wifi connections, and if the password is open to see.
+Basic use of batch, to see your history of wifi connections, and the password if it is open to see.
 
-If it is accesible, which most "home" routers are, you can check under the premise key={password}.
-Where password will be the password of given wifi.
+If it is accesible, which most "home" routers are, you can check the presence of the key and the password, if no password is shown, is because there is no easy accesibility trough this script as it is not saved internally opened.
